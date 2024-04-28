@@ -20,4 +20,5 @@ Some basic class libraries
 * unique: distributed id based on the snowflake algorithm, adding a type to the id, so that the source can be distinguished based on the id
 
 
-
+## Notes
+* kafka client: [here](https://github.com/garfieldlw/kafka-delay-queue-golang)
