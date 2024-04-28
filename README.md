@@ -6,6 +6,7 @@ Some basic class libraries
 
 ## Desc
 * code: convert int64 to custom code
+* elasticsearch: es client based on github.com/olivere/elastic/v7
 * etcd: etcd client based on go.etcd.io/etcd/client/v3
 * grpc: grpc client connection pool
 * http: http client 
