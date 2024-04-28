@@ -1,6 +1,5 @@
 package pool
 
-// Pool 基本方法
 type Pool interface {
 	Get() (interface{}, error)
 
