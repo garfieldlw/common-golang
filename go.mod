@@ -3,6 +3,7 @@ module github.com/garfieldlw/common-golang
 go 1.21.9
 
 require (
+	github.com/mattn/go-sqlite3 v1.14.17
 	github.com/olivere/elastic/v7 v7.0.32
 	github.com/redis/go-redis/v9 v9.5.1
 	go.etcd.io/etcd/client/v3 v3.5.13
@@ -12,6 +13,7 @@ require (
 	google.golang.org/grpc v1.59.0
 	gorm.io/driver/mysql v1.5.6
 	gorm.io/driver/postgres v1.5.7
+	gorm.io/driver/sqlite v1.5.5
 	gorm.io/gorm v1.25.10
 	gorm.io/plugin/dbresolver v1.5.1
 )

@@ -17,6 +17,7 @@ Some basic class libraries
 * pool: generic connection pool library
 * postgres: postgres client base on gorm
 * redis: redis client
+* sqlite3: sqlite3 client base on gorm
 * unique: distributed id based on the snowflake algorithm, adding a type to the id, so that the source can be distinguished based on the id
 
 
